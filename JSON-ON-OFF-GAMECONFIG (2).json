@@ -4,12 +4,12 @@
       "mumetle": "1",
       "turuwae": "1",
       
-	  "ngelubos" : true,
+	  "ngelubos" : false,
       "admint" : "ca-app-pub-9647691327019225/3015424387",
       "admints" : "ca-app-pub-9647691327019225/3015424387",
       "admintsbek" : "ca-app-pub-9647691327019225/3015424387",
-      "isadmbantopac" : true,
-      "isadmbantop" : true,
+      "isadmbantopac" : false,
+      "isadmbantop" : false,
       "isadmbantop_lok" : "Z8y0Gwpm2lInZ6BGkl69yA==",
 
       "isadmbantop_isw1" : "jSPu45Fq15zczJ3Dism6lg==",
@@ -33,7 +33,7 @@
 	  //UNITY
 	  
 	  "esbajigur": "1",
-	  "esbajigurmu": true,
+	  "esbajigurmu": false,
 	  "unitest" : false,
 	  "uniid" : "XjbDxPPCL8HKca2f4LzKrA==",
 	  "uniint" : "afF6Q7hlBO09t1zDcKl8Ag==",
@@ -47,8 +47,8 @@
 	  
 	  //IRC
 	  
-      "isirbantopac" : true,
-      "isirbantop" : true,
+      "isirbantopac" : false,
+      "isirbantop" : false,
 
 		// KIRI = 50, TENGAH 49
 	  "irban" : "ApDa709j0wOKkaQyJ0oc6g==",
@@ -72,7 +72,7 @@
 	  //IRC INTER
 	  
 	  "wedangronde": "1",
-	  "iractive" : true,
+	  "iractive" : false,
 	  "irappkey" : "ApDa709j0wOKkaQyJ0oc6g==",
 	  "tStartIntIr" : 20000,
       "tExtendIntIr" : 900000,
